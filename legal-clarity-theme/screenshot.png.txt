@@ -1,0 +1,20 @@
+PLACEHOLDER NOTE - screenshot.png
+
+WordPress uses a file named screenshot.png in the theme root to display a
+preview image in Appearance > Themes (the theme picker in wp-admin).
+
+Required:
+- Format: PNG
+- Recommended size: 1200 x 900 pixels (4:3 aspect ratio)
+- Filename: screenshot.png (exactly)
+- Location: /wp-content/themes/legal-clarity-theme/screenshot.png
+
+How to create one:
+1. Install and activate the theme on a staging/local site.
+2. Visit the homepage in a browser at a wide viewport (roughly 1600px).
+3. Take a screenshot of the top of the page.
+4. Crop/resize to 1200x900 and save as screenshot.png in the theme root
+   (alongside style.css).
+
+Until a real screenshot.png exists, WordPress will show a default gray
+placeholder tile in the theme picker. Functionality is not affected.

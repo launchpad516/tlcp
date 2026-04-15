@@ -1,0 +1,17 @@
+PLACEHOLDER NOTE - logo.png
+
+This file is a placeholder. The theme now references logo.svg, which has been
+created in this same directory.
+
+If you would like a PNG version (for email, social sharing, or environments
+that do not render SVG), please do one of the following:
+
+1. Open assets/images/logo.svg in a browser or design tool (Figma, Illustrator,
+   Inkscape, etc.) and export as PNG at ~512x512 pixels, then save as logo.png
+   in this directory.
+
+2. Replace the SVG entirely by providing your own PNG file named logo.png and
+   update functions.php to reference logo.png instead of logo.svg.
+
+Agents cannot reliably generate binary PNG files, so this placeholder exists to
+remind you to convert or replace the file before relying on a PNG path.

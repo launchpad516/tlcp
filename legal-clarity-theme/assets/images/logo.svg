@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80" role="img" aria-label="The Legal Clarity Project">
+    <defs>
+        <linearGradient id="logo-line" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#1a2e5a"/>
+            <stop offset="100%" stop-color="#3b82f6"/>
+        </linearGradient>
+    </defs>
+
+    <!-- Speech bubble outline -->
+    <path d="M14,14 h52 a8,8 0 0 1 8,8 v34 a8,8 0 0 1 -8,8 h-34 l-14,12 v-12 h-4 a8,8 0 0 1 -8,-8 v-34 a8,8 0 0 1 8,-8 z"
+          fill="none" stroke="#1a2e5a" stroke-width="4" stroke-linejoin="round"/>
+
+    <!-- Clarity / motion lines, left-aligned -->
+    <rect x="20" y="26" width="36" height="4" rx="2" fill="url(#logo-line)"/>
+    <rect x="20" y="36" width="28" height="4" rx="2" fill="url(#logo-line)" opacity="0.85"/>
+    <rect x="20" y="46" width="32" height="4" rx="2" fill="url(#logo-line)" opacity="0.7"/>
+    <rect x="20" y="56" width="20" height="4" rx="2" fill="url(#logo-line)" opacity="0.55"/>
+</svg>

@@ -62,7 +62,7 @@ require_once TLCP_DIR . '/inc/contact-handler.php';
  */
 function tlcp_favicon() {
     ?>
-    <link rel="icon" type="image/png" href="<?php echo esc_url( TLCP_URI . '/assets/images/favicon.png' ); ?>">
+    <link rel="icon" type="image/svg+xml" href="<?php echo esc_url( TLCP_URI . '/assets/images/favicon.svg' ); ?>">
     <?php
 }
 add_action( 'wp_head', 'tlcp_favicon' );
@@ -92,7 +92,7 @@ function tlcp_icon( $name, $size = 24 ) {
  * Get the site logo as an inline SVG / image reference.
  */
 function tlcp_logo_html( $full = true ) {
-    $img = TLCP_URI . '/assets/images/logo.png';
+    $img = TLCP_URI . '/assets/images/logo.svg';
     if ( $full ) {
         return '<a href="' . esc_url( home_url( '/' ) ) . '" class="site-logo"><img src="' . esc_url( $img ) . '" alt="The Legal Clarity Project" /><span class="site-logo-text"><span class="site-logo-top">The Legal Clarity</span><span class="site-logo-bot">Project</span></span></a>';
     }

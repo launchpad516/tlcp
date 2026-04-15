@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380" role="img" aria-hidden="true">
+    <defs>
+        <linearGradient id="hero-bubble" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#1a2e5a"/>
+            <stop offset="100%" stop-color="#2563eb"/>
+        </linearGradient>
+        <linearGradient id="hero-line" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#2563eb" stop-opacity="0.9"/>
+            <stop offset="100%" stop-color="#2563eb" stop-opacity="0.2"/>
+        </linearGradient>
+    </defs>
+
+    <!-- Soft background bubble -->
+    <g opacity="0.12">
+        <circle cx="80" cy="80" r="60" fill="#2563eb"/>
+        <circle cx="420" cy="310" r="80" fill="#1a2e5a"/>
+    </g>
+
+    <!-- Secondary small bubble (back) -->
+    <g opacity="0.35">
+        <path d="M310,60 h120 a30,30 0 0 1 30,30 v80 a30,30 0 0 1 -30,30 h-60 l-30,30 v-30 h-30 a30,30 0 0 1 -30,-30 v-80 a30,30 0 0 1 30,-30 z"
+              fill="url(#hero-bubble)"/>
+    </g>
+
+    <!-- Main speech bubble -->
+    <g>
+        <path d="M60,80 h300 a40,40 0 0 1 40,40 v140 a40,40 0 0 1 -40,40 h-210 l-60,50 v-50 h-30 a40,40 0 0 1 -40,-40 v-140 a40,40 0 0 1 40,-40 z"
+              fill="url(#hero-bubble)" opacity="0.95"/>
+
+        <!-- Clarity lines -->
+        <rect x="95" y="135" width="230" height="10" rx="5" fill="url(#hero-line)" opacity="0.95"/>
+        <rect x="95" y="165" width="190" height="10" rx="5" fill="url(#hero-line)" opacity="0.8"/>
+        <rect x="95" y="195" width="220" height="10" rx="5" fill="url(#hero-line)" opacity="0.7"/>
+        <rect x="95" y="225" width="150" height="10" rx="5" fill="url(#hero-line)" opacity="0.55"/>
+    </g>
+
+    <!-- Accent dot -->
+    <circle cx="420" cy="120" r="8" fill="#2563eb" opacity="0.7"/>
+    <circle cx="445" cy="140" r="4" fill="#1a2e5a" opacity="0.5"/>
+</svg>

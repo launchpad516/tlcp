@@ -1,0 +1,16 @@
+PLACEHOLDER NOTE - favicon.png
+
+This file is a placeholder. The theme now references favicon.svg, which has
+been created in this same directory.
+
+Modern browsers support SVG favicons. If you need a PNG fallback for older
+browsers:
+
+1. Open favicon.svg in a browser or design tool and export as PNG at 32x32 or
+   64x64 pixels, saving it as favicon.png in this directory.
+
+2. Then update functions.php (tlcp_favicon function) if you want the PNG to be
+   the primary reference.
+
+Agents cannot reliably generate binary PNG files, so this placeholder exists
+as a reminder.
