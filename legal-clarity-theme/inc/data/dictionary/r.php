@@ -1,0 +1,136 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) { exit; }
+return array(
+    array(
+        'term'       => 'Ratification',
+        'pos'        => 'noun',
+        'definition' => 'The formal approval of a contract or action that makes it legally binding.',
+        'example'    => 'The board\'s ratification of the agreement finalized the merger.',
+    ),
+    array(
+        'term'       => 'Real Property',
+        'pos'        => 'noun',
+        'definition' => 'Land and anything permanently attached to it, such as buildings or trees.',
+        'example'    => 'The farm and its barns count as real property in the estate.',
+    ),
+    array(
+        'term'       => 'Reasonable Doubt',
+        'pos'        => 'noun',
+        'definition' => 'The high level of certainty required for a criminal conviction, based on evidence.',
+        'example'    => 'The jurors acquitted because the state could not eliminate all reasonable doubt.',
+    ),
+    array(
+        'term'       => 'Reasonable Person',
+        'pos'        => 'noun',
+        'definition' => 'A hypothetical average person used as a standard to judge whether behavior was appropriate.',
+        'example'    => 'A reasonable person would have slowed down in the heavy fog.',
+    ),
+    array(
+        'term'       => 'Rebuttal',
+        'pos'        => 'noun',
+        'definition' => 'Evidence or argument offered to contradict or disprove an opposing party\'s claims.',
+        'example'    => 'The plaintiff called an expert in rebuttal to counter the defense\'s witness.',
+    ),
+    array(
+        'term'       => 'Recidivism',
+        'pos'        => 'noun',
+        'definition' => 'The tendency of a convicted person to commit additional crimes after punishment.',
+        'example'    => 'Job training programs aim to reduce recidivism among former inmates.',
+    ),
+    array(
+        'term'       => 'Recusal',
+        'pos'        => 'noun',
+        'definition' => 'The removal of a judge from a case because of a conflict of interest or bias.',
+        'example'    => 'The judge agreed to recusal after discovering a family tie to a witness.',
+    ),
+    array(
+        'term'       => 'Redress',
+        'pos'        => 'noun',
+        'definition' => 'A remedy or compensation provided to correct a wrong or injury.',
+        'example'    => 'The customer sought redress after the defective product caused a fire.',
+    ),
+    array(
+        'term'       => 'Referee',
+        'pos'        => 'noun',
+        'definition' => 'A person appointed by a court to investigate issues or oversee specific procedures.',
+        'example'    => 'The court appointed a referee to handle the complex accounting dispute.',
+    ),
+    array(
+        'term'       => 'Reformation',
+        'pos'        => 'noun',
+        'definition' => 'A court-ordered revision of a contract to reflect the parties\' true intentions.',
+        'example'    => 'The judge ordered reformation of the deed to correct the typo in the property description.',
+    ),
+    array(
+        'term'       => 'Release',
+        'pos'        => 'noun',
+        'definition' => 'A document giving up a legal claim or right against another party.',
+        'example'    => 'She signed a release in exchange for the insurance settlement check.',
+    ),
+    array(
+        'term'       => 'Remand',
+        'pos'        => 'verb',
+        'definition' => 'To send a case back to a lower court for further action or reconsideration.',
+        'example'    => 'The appellate court chose to remand the case for a new sentencing hearing.',
+    ),
+    array(
+        'term'       => 'Remedy',
+        'pos'        => 'noun',
+        'definition' => 'The means a court uses to enforce a right or compensate for a harm.',
+        'example'    => 'Monetary damages were the only practical remedy for the breach.',
+    ),
+    array(
+        'term'       => 'Replevin',
+        'pos'        => 'noun',
+        'definition' => 'A lawsuit to recover personal property wrongfully taken or held by someone else.',
+        'example'    => 'He filed a replevin action to get his stolen tools back from the repair shop.',
+    ),
+    array(
+        'term'       => 'Rescission',
+        'pos'        => 'noun',
+        'definition' => 'The cancellation of a contract, returning both parties to their positions before the agreement.',
+        'example'    => 'She sought rescission after discovering the seller misrepresented the car\'s mileage.',
+    ),
+    array(
+        'term'       => 'Restitution',
+        'pos'        => 'noun',
+        'definition' => 'The return of money or property to its rightful owner, often ordered as part of a sentence.',
+        'example'    => 'The court ordered him to pay restitution to the victim of the fraud.',
+    ),
+    array(
+        'term'       => 'Restraining Order',
+        'pos'        => 'noun',
+        'definition' => 'A court order requiring a person to refrain from specific actions, like contacting another.',
+        'example'    => 'The judge issued a temporary restraining order barring contact between the neighbors.',
+    ),
+    array(
+        'term'       => 'Retainer',
+        'pos'        => 'noun',
+        'definition' => 'A fee paid upfront to secure a lawyer\'s services or ongoing availability.',
+        'example'    => 'The client paid a five-thousand-dollar retainer before the attorney began work.',
+    ),
+    array(
+        'term'       => 'Retribution',
+        'pos'        => 'noun',
+        'definition' => 'Punishment imposed as deserved consequence for a crime, not for deterrence or rehabilitation.',
+        'example'    => 'Some argue the death penalty serves retribution more than prevention.',
+    ),
+    array(
+        'term'       => 'Reversible Error',
+        'pos'        => 'noun',
+        'definition' => 'A trial mistake serious enough to justify overturning a verdict on appeal.',
+        'example'    => 'Admitting the coerced confession was a reversible error requiring a new trial.',
+    ),
+    array(
+        'term'       => 'Right',
+        'pos'        => 'noun',
+        'definition' => 'A legally protected interest or entitlement that a person can enforce.',
+        'example'    => 'Every defendant has a right to remain silent during police questioning.',
+    ),
+    array(
+        'term'       => 'Riparian Rights',
+        'pos'        => 'noun',
+        'definition' => 'The rights of a landowner whose property borders a river or stream to use its water.',
+        'example'    => 'Her riparian rights allowed her to draw water for her cattle from the creek.',
+    ),
+);

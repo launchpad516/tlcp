@@ -1,0 +1,148 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) { exit; }
+return array(
+	array(
+		'term'       => 'Easement',
+		'pos'        => 'noun',
+		'definition' => 'A legal right to use part of someone elses land for a specific purpose.',
+		'example'    => 'The utility company had an easement to run power lines across the edge of her backyard.',
+	),
+	array(
+		'term'       => 'Elements',
+		'pos'        => 'noun',
+		'definition' => 'The specific facts a prosecutor must prove to establish that a crime occurred.',
+		'example'    => 'To prove burglary, the state had to show every element, including unlawful entry and intent to steal.',
+	),
+	array(
+		'term'       => 'Embezzlement',
+		'pos'        => 'noun',
+		'definition' => 'Stealing money or property that was entrusted to you by an employer or client.',
+		'example'    => 'The bookkeeper was arrested for embezzlement after transferring company funds to her personal account.',
+	),
+	array(
+		'term'       => 'Emergency Order',
+		'pos'        => 'phrase',
+		'definition' => 'A fast court order issued to prevent immediate harm before a full hearing.',
+		'example'    => 'She obtained an emergency order of protection the same day she reported her ex for stalking.',
+	),
+	array(
+		'term'       => 'Eminent Domain',
+		'pos'        => 'phrase',
+		'definition' => 'The governments power to take private property for public use with fair payment.',
+		'example'    => 'The state used eminent domain to buy several homes to build the new light-rail station.',
+	),
+	array(
+		'term'       => 'Encumbrance',
+		'pos'        => 'noun',
+		'definition' => 'A claim, lien, or restriction on property that affects its use or value.',
+		'example'    => 'The unpaid tax lien was an encumbrance that had to be cleared before the house could be sold.',
+	),
+	array(
+		'term'       => 'Enjoin',
+		'pos'        => 'verb',
+		'definition' => 'To order someone through a court injunction to stop or start a specific action.',
+		'example'    => 'The court moved to enjoin the company from dumping waste into the creek.',
+	),
+	array(
+		'term'       => 'Entrapment',
+		'pos'        => 'noun',
+		'definition' => 'A defense claiming law enforcement tricked someone into committing a crime they otherwise would not.',
+		'example'    => 'He raised entrapment after the undercover officer repeatedly pressured him to sell the drugs.',
+	),
+	array(
+		'term'       => 'Equal Protection',
+		'pos'        => 'phrase',
+		'definition' => 'The constitutional promise that the government will treat similar people similarly under the law.',
+		'example'    => 'The equal protection clause barred the state from letting only one race use the public pool.',
+	),
+	array(
+		'term'       => 'Equitable Relief',
+		'pos'        => 'phrase',
+		'definition' => 'A court remedy other than money, like ordering someone to act or stop acting.',
+		'example'    => 'Because the painting was one of a kind, she sought equitable relief to force the seller to deliver it.',
+	),
+	array(
+		'term'       => 'Equity',
+		'pos'        => 'noun',
+		'definition' => 'Fairness-based principles courts apply when strict legal rules would lead to an unjust result.',
+		'example'    => 'In equity, the court allowed her to keep the improvements she made to the wrongly transferred land.',
+	),
+	array(
+		'term'       => 'Escrow',
+		'pos'        => 'noun',
+		'definition' => 'Money or documents held by a neutral third party until specific conditions are met.',
+		'example'    => 'Her down payment sat in escrow until the home inspection was completed.',
+	),
+	array(
+		'term'       => 'Estate',
+		'pos'        => 'noun',
+		'definition' => 'All the property, money, and debts a person owns, especially at the time of death.',
+		'example'    => 'His estate was divided among his three children according to his will.',
+	),
+	array(
+		'term'       => 'Estoppel',
+		'pos'        => 'noun',
+		'definition' => 'A legal rule preventing someone from taking a position that contradicts their earlier words or actions.',
+		'example'    => 'Estoppel blocked the employer from firing her for a rule she was told did not apply.',
+	),
+	array(
+		'term'       => 'Ethics',
+		'pos'        => 'noun',
+		'definition' => 'The professional rules of conduct lawyers, judges, and others must follow.',
+		'example'    => 'Legal ethics forbid a lawyer from representing both sides in the same divorce.',
+	),
+	array(
+		'term'       => 'Evidence',
+		'pos'        => 'noun',
+		'definition' => 'Anything presented in court to prove or disprove a fact, including testimony and documents.',
+		'example'    => 'The photos of the dented car served as evidence of the collision.',
+	),
+	array(
+		'term'       => 'Exculpatory',
+		'pos'        => 'adjective',
+		'definition' => 'Describing evidence that tends to clear a defendant of guilt.',
+		'example'    => 'The surveillance video was exculpatory because it showed he was across town during the robbery.',
+	),
+	array(
+		'term'       => 'Ex Parte',
+		'pos'        => 'phrase',
+		'definition' => 'A legal action or hearing involving only one side, without notifying the other.',
+		'example'    => 'She obtained an ex parte restraining order because waiting would have put her in danger.',
+	),
+	array(
+		'term'       => 'Excusable Neglect',
+		'pos'        => 'phrase',
+		'definition' => 'A valid reason that excuses missing a legal deadline, such as illness or a true emergency.',
+		'example'    => 'The court accepted excusable neglect when her hospitalization caused her to miss the filing date.',
+	),
+	array(
+		'term'       => 'Executor',
+		'pos'        => 'noun',
+		'definition' => 'The person named in a will to carry out the deceaseds wishes and settle the estate.',
+		'example'    => 'As executor, he paid his mothers final bills and distributed her belongings to her heirs.',
+	),
+	array(
+		'term'       => 'Exhibit',
+		'pos'        => 'noun',
+		'definition' => 'A document or object formally introduced as evidence in a court proceeding.',
+		'example'    => 'The signed contract was marked as Exhibit A during the trial.',
+	),
+	array(
+		'term'       => 'Expert Witness',
+		'pos'        => 'phrase',
+		'definition' => 'A witness with specialized training or knowledge who helps the jury understand technical issues.',
+		'example'    => 'The accident reconstruction expert witness testified about how fast each car was going.',
+	),
+	array(
+		'term'       => 'Express Warranty',
+		'pos'        => 'phrase',
+		'definition' => 'A specific, stated promise by a seller about a products quality or features.',
+		'example'    => 'The dealers written express warranty promised the transmission would work for 60,000 miles.',
+	),
+	array(
+		'term'       => 'Extradition',
+		'pos'        => 'noun',
+		'definition' => 'The formal surrender of a person accused of a crime from one jurisdiction to another.',
+		'example'    => 'After his arrest in Florida, extradition sent him back to Arizona to face the charges.',
+	),
+);

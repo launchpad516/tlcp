@@ -1,0 +1,136 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) { exit; }
+return array(
+	array(
+		'term'       => 'Laches',
+		'pos'        => 'noun',
+		'definition' => 'A legal defense that blocks a claim because the person waited too long to bring it.',
+		'example'    => 'The court rejected her lawsuit under laches because she sat on her claim for twelve years.',
+	),
+	array(
+		'term'       => 'Landlord',
+		'pos'        => 'noun',
+		'definition' => 'A person or company that rents out property to a tenant.',
+		'example'    => 'The landlord agreed to fix the leaky faucet within the week.',
+	),
+	array(
+		'term'       => 'Larceny',
+		'pos'        => 'noun',
+		'definition' => 'The unlawful taking of someone else\'s personal property with the intent to keep it.',
+		'example'    => 'He was charged with larceny for stealing a bicycle from a school rack.',
+	),
+	array(
+		'term'       => 'Leading Question',
+		'pos'        => 'noun',
+		'definition' => 'A question that suggests the answer the questioner wants the witness to give.',
+		'example'    => 'The judge sustained the objection because the attorney asked a leading question on direct examination.',
+	),
+	array(
+		'term'       => 'Lease',
+		'pos'        => 'noun',
+		'definition' => 'A written contract that lets someone use property for a set time in exchange for payment.',
+		'example'    => 'She signed a twelve-month lease for the downtown apartment.',
+	),
+	array(
+		'term'       => 'Legal Aid',
+		'pos'        => 'noun',
+		'definition' => 'Free or low-cost legal help provided to people who cannot afford a private attorney.',
+		'example'    => 'Legal aid helped the single mother fight an unfair eviction.',
+	),
+	array(
+		'term'       => 'Legal Custody',
+		'pos'        => 'noun',
+		'definition' => 'The right to make major decisions about a child\'s upbringing, such as schooling and medical care.',
+		'example'    => 'The divorce decree gave both parents joint legal custody of their son.',
+	),
+	array(
+		'term'       => 'Legal Malpractice',
+		'pos'        => 'noun',
+		'definition' => 'Professional negligence by an attorney that harms a client\'s case.',
+		'example'    => 'He sued his former lawyer for legal malpractice after missing a key filing deadline cost him the case.',
+	),
+	array(
+		'term'       => 'Legal Separation',
+		'pos'        => 'noun',
+		'definition' => 'A court order allowing spouses to live apart with legal rules but remain married.',
+		'example'    => 'They chose legal separation instead of divorce so they could keep her health insurance.',
+	),
+	array(
+		'term'       => 'Legislative Intent',
+		'pos'        => 'noun',
+		'definition' => 'The purpose lawmakers had in mind when they passed a statute.',
+		'example'    => 'The court looked at committee reports to determine the legislative intent behind the new privacy law.',
+	),
+	array(
+		'term'       => 'Lemon Law',
+		'pos'        => 'noun',
+		'definition' => 'A consumer protection law that helps buyers of seriously defective vehicles get a refund or replacement.',
+		'example'    => 'After four failed repair visits, she used the state lemon law to return her new car.',
+	),
+	array(
+		'term'       => 'Letter of Intent',
+		'pos'        => 'noun',
+		'definition' => 'A written statement outlining the main terms of a planned agreement before a formal contract is signed.',
+		'example'    => 'The buyer signed a letter of intent to purchase the restaurant pending final inspection.',
+	),
+	array(
+		'term'       => 'Liability',
+		'pos'        => 'noun',
+		'definition' => 'Legal responsibility for paying damages or facing punishment for one\'s actions.',
+		'example'    => 'The store owner carried insurance to cover any liability if a customer slipped and fell.',
+	),
+	array(
+		'term'       => 'Libel',
+		'pos'        => 'noun',
+		'definition' => 'A false written statement that damages someone\'s reputation.',
+		'example'    => 'The celebrity sued the blogger for libel over the made-up story.',
+	),
+	array(
+		'term'       => 'License',
+		'pos'        => 'noun',
+		'definition' => 'Official permission to do something that would otherwise be illegal or restricted.',
+		'example'    => 'The bakery obtained a business license before opening its doors to the public.',
+	),
+	array(
+		'term'       => 'Lien',
+		'pos'        => 'noun',
+		'definition' => 'A legal claim against property to secure payment of a debt.',
+		'example'    => 'The contractor placed a lien on the house after the homeowner refused to pay for the remodel.',
+	),
+	array(
+		'term'       => 'Limitations (statute of)',
+		'pos'        => 'noun',
+		'definition' => 'The legal time limit for starting a lawsuit or filing criminal charges.',
+		'example'    => 'Her slip-and-fall claim was barred by the two-year statute of limitations.',
+	),
+	array(
+		'term'       => 'Litigant',
+		'pos'        => 'noun',
+		'definition' => 'A person involved in a lawsuit as either the party suing or being sued.',
+		'example'    => 'Both litigants arrived early for the mediation session.',
+	),
+	array(
+		'term'       => 'Litigation',
+		'pos'        => 'noun',
+		'definition' => 'The process of taking a legal dispute through the court system.',
+		'example'    => 'After months of litigation, the two companies finally reached a settlement.',
+	),
+	array(
+		'term'       => 'Living Trust',
+		'pos'        => 'noun',
+		'definition' => 'A legal arrangement that holds a person\'s assets during life and distributes them after death without probate.',
+		'example'    => 'She set up a living trust so her kids could inherit the house without going through probate.',
+	),
+	array(
+		'term'       => 'Living Will',
+		'pos'        => 'noun',
+		'definition' => 'A written document stating what medical care a person wants if they can no longer decide for themselves.',
+		'example'    => 'His living will made clear he did not want to be kept on life support.',
+	),
+	array(
+		'term'       => 'Loss of Consortium',
+		'pos'        => 'noun',
+		'definition' => 'A legal claim for losing the companionship, affection, or support of a spouse due to injury.',
+		'example'    => 'She added a loss of consortium claim after the crash left her husband unable to work or socialize.',
+	),
+);

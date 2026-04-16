@@ -1,0 +1,148 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) { exit; }
+return array(
+	array(
+		'term'       => 'Bail',
+		'pos'        => 'noun',
+		'definition' => 'Money paid to a court so an arrested person can be released while awaiting trial.',
+		'example'    => 'Her family posted $5,000 bail so she could return home until her court date.',
+	),
+	array(
+		'term'       => 'Bailiff',
+		'pos'        => 'noun',
+		'definition' => 'A court officer who maintains order in the courtroom and assists the judge.',
+		'example'    => 'The bailiff asked everyone to rise as the judge entered the courtroom.',
+	),
+	array(
+		'term'       => 'Bailment',
+		'pos'        => 'noun',
+		'definition' => 'Temporarily giving someone your property to hold or use with an agreement to return it.',
+		'example'    => 'Leaving your coat with a restaurant coat check creates a bailment between you and the restaurant.',
+	),
+	array(
+		'term'       => 'Bankruptcy',
+		'pos'        => 'noun',
+		'definition' => 'A legal process that helps people or businesses who cannot pay their debts get relief.',
+		'example'    => 'After medical bills piled up, she filed for bankruptcy to get a fresh financial start.',
+	),
+	array(
+		'term'       => 'Bar',
+		'pos'        => 'noun',
+		'definition' => 'The collective group of lawyers licensed to practice law in a particular area.',
+		'example'    => 'After passing the exam, she was admitted to the bar and began practicing law in Texas.',
+	),
+	array(
+		'term'       => 'Bar Association',
+		'pos'        => 'noun',
+		'definition' => 'A professional organization that regulates and supports lawyers within a region.',
+		'example'    => 'He filed a complaint with the state bar association after his lawyer missed three court dates.',
+	),
+	array(
+		'term'       => 'Battery',
+		'pos'        => 'noun',
+		'definition' => 'The unlawful physical contact with another person without their consent.',
+		'example'    => 'Shoving a coworker during an argument can be charged as battery.',
+	),
+	array(
+		'term'       => 'Bench',
+		'pos'        => 'noun',
+		'definition' => 'A term referring to the judge or the judges seat in a courtroom.',
+		'example'    => 'The lawyers approached the bench to discuss the objection out of the jurys hearing.',
+	),
+	array(
+		'term'       => 'Bench Trial',
+		'pos'        => 'noun',
+		'definition' => 'A trial decided by a judge alone, without a jury.',
+		'example'    => 'They chose a bench trial because the contract dispute involved complicated accounting rules.',
+	),
+	array(
+		'term'       => 'Beneficiary',
+		'pos'        => 'noun',
+		'definition' => 'A person named to receive money, property, or benefits from a will, trust, or policy.',
+		'example'    => 'Her daughter was the beneficiary of the life insurance policy worth $200,000.',
+	),
+	array(
+		'term'       => 'Bequest',
+		'pos'        => 'noun',
+		'definition' => 'A gift of personal property left to someone through a will.',
+		'example'    => 'Her grandmothers will included a bequest of the antique piano to her granddaughter.',
+	),
+	array(
+		'term'       => 'Best Evidence Rule',
+		'pos'        => 'phrase',
+		'definition' => 'A rule requiring the original document when proving its contents in court.',
+		'example'    => 'Under the best evidence rule, the lawyer produced the original signed lease rather than a photocopy.',
+	),
+	array(
+		'term'       => 'Beyond a Reasonable Doubt',
+		'pos'        => 'phrase',
+		'definition' => 'The high level of certainty needed to convict someone of a crime.',
+		'example'    => 'The jury acquitted him because the prosecutor could not prove guilt beyond a reasonable doubt.',
+	),
+	array(
+		'term'       => 'Bill',
+		'pos'        => 'noun',
+		'definition' => 'A proposed law introduced in a legislature for debate and possible passage.',
+		'example'    => 'The senator introduced a bill that would raise the minimum wage across the state.',
+	),
+	array(
+		'term'       => 'Bill of Rights',
+		'pos'        => 'phrase',
+		'definition' => 'The first ten amendments to the U.S. Constitution, which protect basic individual freedoms.',
+		'example'    => 'The Bill of Rights guarantees the freedom to speak openly and practice any religion.',
+	),
+	array(
+		'term'       => 'Binding',
+		'pos'        => 'adjective',
+		'definition' => 'Legally enforceable and creating a duty someone must follow.',
+		'example'    => 'Once both parties signed the lease, it became a binding agreement for twelve months.',
+	),
+	array(
+		'term'       => 'Blackmail',
+		'pos'        => 'noun',
+		'definition' => 'Demanding money or favors by threatening to reveal damaging or embarrassing information.',
+		'example'    => 'He was charged with blackmail for demanding $10,000 to keep private photos off the internet.',
+	),
+	array(
+		'term'       => 'Bond',
+		'pos'        => 'noun',
+		'definition' => 'A written promise backed by money to guarantee something will happen, such as a court appearance.',
+		'example'    => 'The judge required a $10,000 bond to make sure he would show up for trial.',
+	),
+	array(
+		'term'       => 'Boycott',
+		'pos'        => 'noun',
+		'definition' => 'An organized refusal to do business with a company to force it to change behavior.',
+		'example'    => 'Customers organized a boycott of the coffee chain after it fired employees for unionizing.',
+	),
+	array(
+		'term'       => 'Breach of Contract',
+		'pos'        => 'phrase',
+		'definition' => 'Failing to perform what a contract requires without a legal excuse.',
+		'example'    => 'The roofer committed breach of contract by never finishing the repairs after being paid in full.',
+	),
+	array(
+		'term'       => 'Bribery',
+		'pos'        => 'noun',
+		'definition' => 'Offering or accepting something of value to influence an official decision.',
+		'example'    => 'The inspector was arrested for bribery after accepting cash to approve unsafe construction.',
+	),
+	array(
+		'term'       => 'Brief',
+		'pos'        => 'noun',
+		'definition' => 'A written document filed with a court laying out a partys legal arguments.',
+		'example'    => 'Her attorney filed a brief explaining why the traffic ticket should be dismissed.',
+	),
+	array(
+		'term'       => 'Burden of Proof',
+		'pos'        => 'phrase',
+		'definition' => 'The duty of a party to prove the facts needed to win their case.',
+		'example'    => 'In a civil suit, the burden of proof requires showing it is more likely than not that the claim is true.',
+	),
+	array(
+		'term'       => 'Bylaws',
+		'pos'        => 'noun',
+		'definition' => 'The internal rules that govern how a company, nonprofit, or association operates.',
+		'example'    => 'The homeowners association bylaws required two weeks notice before any board vote.',
+	),
+);
