@@ -47,6 +47,10 @@ function tlcp_enqueue_assets() {
     if ( is_page_template( 'page-templates/page-dictionary.php' ) ) {
         wp_enqueue_script( 'tlcp-dictionary', TLCP_URI . '/assets/js/dictionary.js', array(), TLCP_VERSION, true );
     }
+
+    if ( is_page_template( 'page-templates/page-know-your-rights.php' ) ) {
+        wp_enqueue_script( 'tlcp-know-your-rights', TLCP_URI . '/assets/js/know-your-rights.js', array(), TLCP_VERSION, true );
+    }
 }
 add_action( 'wp_enqueue_scripts', 'tlcp_enqueue_assets' );
 
