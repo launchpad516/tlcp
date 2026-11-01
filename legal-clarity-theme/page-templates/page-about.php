@@ -19,7 +19,7 @@ get_header(); ?>
     <div class="container container-narrow">
         <div class="prose">
             <h2>About Me</h2>
-            <p>My name is Lily Defendini. I am a junior at Farmingdale Senior High School in Farmingdale, New York. I started this project because I noticed a problem: legal language is often designed to confuse, and that confusion leads to silence. I've seen how easily people get lost in legal settings; not because they don't care, but because the words being used feel like a different language. This project was created to change that. By translating complex legal language into clear, accessible explanations, I hope to give people the confidence to understand, question, and use their rights.</p>
+            <p>My name is Lily Defendini. I am a senior at Farmingdale Senior High School in Farmingdale, New York, and I am pursuing my interest in law, with a particular focus on public policy and business development. I started this project because I noticed a problem: legal language is often designed to confuse, and that confusion leads to silence. I've seen how easily people get lost in legal settings; not because they don't care, but because the words being used feel like a different language. This project was created to change that. By translating complex legal language into clear, accessible explanations, I hope to give people the confidence to understand, question, and use their rights.</p>
             <blockquote>
                 <p>A right is only as strong as a person's ability to understand it.</p>
             </blockquote>
@@ -40,7 +40,18 @@ get_header(); ?>
     <div class="container container-narrow">
         <div class="prose">
             <h2>The Idea</h2>
-            <p>This website brings together two things: a plain-language legal dictionary, and a "Know Your Rights" section that explains the Constitution in real terms. The goal is not just to define legal terms, but to explain what they actually mean in everyday situations.</p>
+            <p>This website brings together two things: a plain-language legal dictionary, and a &ldquo;Know Your Rights&rdquo; section that explains the Constitution in real terms. The goal is not just to define legal terms, but to explain what they actually mean in everyday situations.</p>
+            <p>Since its initial launch in May 2026, the project has continued to grow &mdash; expanding its dictionary, refining its explanations, and adding new resources as the work evolves. What began as a single idea has become a living reference that is updated as new entries, scenarios, and articles are developed.</p>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container container-narrow">
+        <div class="prose">
+            <h2>What I've Learned Building This</h2>
+            <p>Developing this project has taught me as much as it was meant to teach others. Working through hundreds of legal terms deepened my understanding of how legal language is constructed &mdash; and why so much of it is inaccessible to the people it affects most. Translating complex concepts into plain English pushed me to think carefully about accessibility: how a definition is written, who it is written for, and whether the words I choose open a door or close one.</p>
+            <p>Most of all, this work reinforced how central communication is to the law itself. Rights only exist in practice when the people who hold them can understand them. Clarity is not a courtesy; it is the bridge between knowing a right and being able to use it. That lesson shapes every entry on this site, and it is the standard I continue to work toward with every update.</p>
         </div>
     </div>
 </section>
@@ -64,6 +75,16 @@ get_header(); ?>
                 <li>Reduce confusion</li>
                 <li>Encourage participation</li>
             </ul>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container container-narrow">
+        <div class="prose">
+            <h2>What's Next</h2>
+            <p>The Legal Clarity Project is built to keep growing. The dictionary will continue to expand across more areas of law, and the &ldquo;Know Your Rights&rdquo; section will deepen with additional scenarios, context, and cross-references. New articles and insights are planned for later this fall &mdash; longer-form pieces that explore current legal topics in plain language and connect them back to the terms and rights covered elsewhere on the site.</p>
+            <p>Longer term, the goal is to build a resource that keeps pace with the questions people are actually asking: a reference that evolves alongside the law and the people trying to understand it. Each update &mdash; a new term, a new scenario, a new article &mdash; is a step toward making sure that understanding the law is never a barrier to using it.</p>
         </div>
     </div>
 </section>
